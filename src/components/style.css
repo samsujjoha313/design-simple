@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(233, 217, 217);
+}
+
+.pera1,
+.pera2,
+.pera3 {
+    list-style: none;
+}
+
+.hr-section {
+    margin-top: -15px;
+    opacity: .1;
+}
+
+.pera1 {
+    height: 30px;
+    width: 110px;
+    background-color: rgb(123, 154, 172);
+    border-radius: 5px;
+}
+
+.pera-list1 {
+    text-align: center;
+    color: white;
+    margin-left: -40px;
+    margin-top: 3px;
+}
+
+.pera2 {
+    height: 30px;
+    width: 90px;
+    background-color: rgb(123, 154, 172);
+    border-radius: 5px;
+}
+
+.pera-list2 {
+    text-align: center;
+    color: white;
+    margin-left: -40px;
+    margin-top: 3px;
+}
+
+.pera3 {
+    height: 30px;
+    width: 90px;
+    background-color: rgb(123, 154, 172);
+    border-radius: 5px;
+}
+
+.pera-list3 {
+    text-align: center;
+    color: white;
+    margin-left: -28px;
+    margin-top: 3px;
+}
+
+.card {
+    width: 410px;
+    height: 130px;
+    border-radius: 10px !important;
+}
+
+.card-img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.column {
+    height: 130px;
+    width: 320px;
+    border-radius: 10px;
+    background-color: rgb(226, 182, 182);
+}
+
+.img1 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.column1-area>* {
+    flex: 1;
+}
+
+.daffodil {
+    height: auto;
+    width: 100px !important;
+    background-color: rgb(146, 75, 75);
+    display: block;
+}

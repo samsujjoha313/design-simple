@@ -1,0 +1,34 @@
+.section1 {
+    list-style: none;
+    display: flex;
+}
+
+.section2 {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(74, 27, 168);
+    border-radius: 50%;
+}
+
+.imgTag {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.header-section {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.area {
+    list-style: none;
+}
+
+.area4 {
+    height: 30px;
+    width: 120px;
+    background-color: rgb(82, 49, 233);
+    border-radius: 5px;
+}
